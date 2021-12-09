@@ -1,6 +1,11 @@
 ### Hi there 👋
+Current Projects!!!!!
+* BoardBoard — Svelte frontend & Rust backend. A dashboard to track board game scores.
+
+Schoooool
 * Currently learning ✨SQL✨ through my Software Engineering Bootcamp
 * I'm working on a ⚡️Connect 4 Web App⚡️ right now! 
+* Other curriculum projects — Memory Game, Meme-Gen, Twitter Bootstrap, any many more!
 * Let's connect! www.linkedin.com/in/kaitlinberryman 😄
 
 <!--
