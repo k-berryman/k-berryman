@@ -1,6 +1,6 @@
 ### Hi there 👋
-Currently learning ✨SQL✨ through my Software Engineering Bootcamp
-Let's connect! www.linkedin.com/in/kaitlinberryman 😄
+* Currently learning ✨SQL✨ through my Software Engineering Bootcamp
+* Let's connect! www.linkedin.com/in/kaitlinberryman 😄
 
 <!--
 **k-berryman/k-berryman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
