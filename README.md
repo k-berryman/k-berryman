@@ -1,5 +1,6 @@
 ### Hi there 👋
 * Currently learning ✨SQL✨ through my Software Engineering Bootcamp
+* I'm working on a ⚡️Connect 4 Web App⚡️ right now! 
 * Let's connect! www.linkedin.com/in/kaitlinberryman 😄
 
 <!--
