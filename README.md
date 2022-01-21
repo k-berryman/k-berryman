@@ -1,6 +1,8 @@
 ### Hi there 👋
 Current Projects!!!!!
 * BoardBoard — Svelte frontend & Rust backend. A dashboard to track board game scores.
+* Netflix Clone in React
+* Uber Clone in React Native
 
 Schoooool
 * Currently learning ✨SQL✨ through my Software Engineering Bootcamp
