@@ -1,14 +1,16 @@
 ### Hi there 👋
 Current Projects!!!!!
-* BoardBoard — Svelte frontend & Rust backend. A dashboard to track board game scores.
-* Netflix Clone in React
+* Audio Player in Wasm & Rust
 * Uber Clone in React Native
+* Tinder Clone in Recat Native
+
+Finished Projects!!!!!
+* Amazon Clone (full e-commerce, React)
+* Spotify Clone (React)
+* Netflix Clone (React)
 
 Schoooool
-* Currently learning ✨SQL✨ through my Software Engineering Bootcamp
-* I'm working on a ⚡️Hacker News (https://news.ycombinator.com/) Clone⚡️ right now! 
-* Other curriculum projects — Twitter Bootstrap, Playlist-Gen, and many more!
-* Let's connect! www.linkedin.com/in/kaitlinberryman 😄
+* Software Engineering Bootcamp
 
 <!--
 **k-berryman/k-berryman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
