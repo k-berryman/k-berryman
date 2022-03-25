@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm looking for jobs!
+### Hi there 👋 I'm looking for jobs!
 ### Please email me at kaitlinberryman@gmail.com if you have job opportunities, thanks! :-)
 
 Current Projects!!!!!
