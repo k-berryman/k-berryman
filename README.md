@@ -1,5 +1,4 @@
-### Hi there 👋 I'm looking for jobs!
-### Please email me at kaitlinberryman@gmail.com if you have job opportunities, thanks! :-)
+### Hi there 👋
 
 Current Projects!!!!!
 * Audio Player in Wasm & Rust
