@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 Current Projects!!!!!
-* Audio Player in Wasm & Rust
 * Uber Clone in React Native
 * Tinder Clone in Recat Native
 
@@ -10,8 +9,6 @@ Finished Projects!!!!!
 * Spotify Clone (React)
 * Netflix Clone (React)
 
-Schoooool
-* Software Engineering Bootcamp
 
 <!--
 **k-berryman/k-berryman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
