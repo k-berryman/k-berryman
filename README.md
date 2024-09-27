@@ -1,10 +1,11 @@
-### Hi there 👋
-
-Extremely passionate about climate tech
+### Extremely passionate about climate tech
 
 💚 Climate Tech Engineer (2022-Present)
+
 👩🏼‍💻 Software Engineering (2020-2023)
+
 ⚡️ Electrical Engineering (2018-2020)
+
 🤖 Robotics (2014-2018)
 
 <!--
