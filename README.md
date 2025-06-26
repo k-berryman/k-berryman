@@ -1,14 +1,6 @@
 ### Front-End Dev
 ✨ Extremely passionate about UI & UX
 
-👩🏼‍💻 Software Engineering (2020-Present)
-
-💚 Climate Tech Engineer (2022-2025)
-
-⚡️ Electrical Engineering (2018-2020)
-
-🤖 Robotics (2014-2018)
-
 <!--
 **k-berryman/k-berryman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
