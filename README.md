@@ -1,8 +1,12 @@
+### Front-end Dev
+Passionate about UI & UX :)
+
+
 ### Extremely passionate about climate tech
 
 💚 Climate Tech Engineer (2022-Present)
 
-👩🏼‍💻 Software Engineering (2020-2023)
+👩🏼‍💻 Software Engineering (2020-Present)
 
 ⚡️ Electrical Engineering (2018-2020)
 
